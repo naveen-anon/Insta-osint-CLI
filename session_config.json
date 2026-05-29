@@ -1,1 +1,9 @@
 
+{
+  "session_user": "aapka_dummy_username",
+  "cookies": {
+    "sessionid": "YAHAN_APNA_SESSION_ID_DAALEIN",
+    "ds_user_id": "YAHAN_APNA_USER_ID_DAALEIN",
+    "csrftoken": "YAHAN_CSRF_TOKEN_DAALEIN"
+  }
+}
